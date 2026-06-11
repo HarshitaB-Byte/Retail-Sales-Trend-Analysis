@@ -73,6 +73,10 @@ Created:
 
 <img width="758" height="574" alt="image" src="https://github.com/user-attachments/assets/7e0b64d9-ba25-4f96-90ae-1d8fb78da08d" />
 
+### Sales by Category
+
+<img width="798" height="656" alt="image" src="https://github.com/user-attachments/assets/f58031b0-a827-4a8c-b130-7850f165ad8b" />
+
 
 ## Key Insights
 
