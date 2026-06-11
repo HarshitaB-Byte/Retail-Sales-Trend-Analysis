@@ -61,6 +61,7 @@ Created:
 
 1. Monthly Sales Trend Analysis
 2. Year-wise Sales Comparison
+3. Sales By Category Comparison
 
 ## Visualizations
 
